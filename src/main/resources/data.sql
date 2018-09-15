@@ -1,0 +1,2 @@
+INSERT INTO PHONE (ID,NAME,DESCRIPTION,PRICE,IMG) VALUES (1,'Iphone','Insanely expensive',1699.99,'iphone.png');
+INSERT INTO PHONE (ID,NAME,DESCRIPTION,PRICE,IMG) VALUES (2,'Xiaomi','Very cheap',200.99,'xiaomi.png');
