@@ -1,6 +1,6 @@
 /*
- * @author: David Martinez Sepulveda
- * @date: 15-sep-2018
+ * @author: ${author}
+ * @date: 16-sep-2018
  * 
  */
 package org.dms.phonecatalog.entity;
@@ -10,6 +10,9 @@ import java.math.BigDecimal;
 import javax.persistence.Entity;
 import javax.persistence.Id;
 
+/**
+ * The Class Phone.
+ */
 @Entity
 public class Phone {
 
